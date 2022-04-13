@@ -1,11 +1,9 @@
 package com.crm.pratice;
 
-public class GitHub {
+public class NewClass {
 
 	public static void main(String[] args) {
-	//class3
-		// class2
-
+	//class2
 	}
 
 }
